@@ -1,3 +1,5 @@
+![Indian Map (1)](https://github.com/user-attachments/assets/1c13ab75-e5d5-4fa6-94c4-a7f8c4624edd)
+
 # Crime-prediction
 Dataset Description:
 
@@ -20,4 +22,6 @@ Units: 50 Activation Function: ReLU ('relu') This layer captures temporal depend
 
 Units: 1 A fully connected layer that outputs the prediction for the next time step. Output: The model outputs a single prediction for the number of arrests in a specific crime category for the next year. Compilation Details: Optimizer: Adam
 By the end of the project, the crime clusters are mapped onto Indian Map.  
+
+
 
